@@ -1,0 +1,14 @@
+
+fieldset {
+    width: 600px;
+
+
+}
+input {
+    display: inline;
+
+}
+
+input[type="email"] {
+    margin: 10px;
+}
